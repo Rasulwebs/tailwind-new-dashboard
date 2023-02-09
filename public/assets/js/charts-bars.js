@@ -1,6 +1,4 @@
-/**
- * For usage, visit Chart.js docs https://www.chartjs.org/docs/latest/
- */
+
 const barConfig = {
   type: 'bar',
   data: {
